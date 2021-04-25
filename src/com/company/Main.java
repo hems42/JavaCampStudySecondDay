@@ -1,8 +1,5 @@
 package com.company;
 
-import Exam.HealthProduct;
-import Exam.HealthProductManager;
-
 import java.util.ArrayList;
 
 public class Main {

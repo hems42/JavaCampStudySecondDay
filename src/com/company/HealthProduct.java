@@ -1,4 +1,4 @@
-package Exam;
+package com.company;
 
 public class HealthProduct extends  BaseProduct
 {

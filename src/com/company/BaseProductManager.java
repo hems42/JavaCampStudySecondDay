@@ -1,4 +1,4 @@
-package Exam;
+package com.company;
 
 
 abstract  class BaseProductManager {
